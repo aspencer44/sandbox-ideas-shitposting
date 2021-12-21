@@ -1,0 +1,3 @@
+# Idea Dump
+
+## sobriety irrelevant
