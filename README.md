@@ -1,3 +1,1 @@
-# Idea Dump
-
-## sobriety irrelevant
+# sandbox shit
