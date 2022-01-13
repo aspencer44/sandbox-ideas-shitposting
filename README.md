@@ -1,4 +1,4 @@
-# sandbox shit
+# sigmaposting
 
 nice sandbox for web-scraping practice: http://books.toscrape.com/
 
